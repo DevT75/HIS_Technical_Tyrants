@@ -34,7 +34,6 @@ const MidSection = () => {
             setImage(null);
           }} size={30} color='#04678b'/>
       </section>
-      <img className = 'z-2 relative w-[95%] h-[90%]' src={image} alt={filename}/>
     </div>
   )
 }
