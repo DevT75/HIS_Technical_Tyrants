@@ -1,0 +1,6 @@
+fastapi
+numpy
+uvicorn[standard]
+image
+tensorflow-cpu
+pandas
